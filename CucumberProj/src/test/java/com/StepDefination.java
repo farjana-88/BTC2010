@@ -21,6 +21,7 @@ public class StepDefination {
 	@After
 	public void quit() {
 		System.out.println("quit");
+		System.out.println("hii");
 		
 	}
 	@Before("@prodnew")
